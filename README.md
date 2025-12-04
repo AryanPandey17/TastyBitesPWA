@@ -1,5 +1,15 @@
 # 🍔 Tasty Bites - PWA Meal Ordering App
 
+## 🔗 Live Demo (Vercel Deployment)
+
+Check out the live version of the Tasty Bites PWA here:
+
+👉 https://tasty-bites-pwa.vercel.app/
+
+You can open this link on both desktop and mobile to experience the Progressive Web App (PWA) features.  
+On supported browsers (Chrome/Edge), you can also install it using the **Install icon** in the address bar or the browser menu.
+
+
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Tech Stack](https://img.shields.io/badge/Stack-Vite%20%7C%20React%20%7C%20TypeScript-blue)
 ![PWA](https://img.shields.io/badge/PWA-Offline%20Ready-orange)
